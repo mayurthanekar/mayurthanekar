@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mayurthanekar
-- 👀 I’m interested in API Integrations and Documention.
-- 🌱 I’m currently learning NoSQL, Python and JS.
-- 💞️ I’m looking to collaborate on Technical Writing.
+- 👀 I’m interested in Product Management and AI native enabling.
+- 🌱 I’m currently learning simple approaches required in building something large.
+- 💞️ I’m looking to collaborate on Product Managers.
 - 📫 How to reach me mail me mayur.thanekar@gmail.com
 
 <!---
